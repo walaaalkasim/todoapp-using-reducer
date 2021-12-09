@@ -1,0 +1,8 @@
+export const actions = {
+  ADD_TO_TODO: "ADD_TO_TODO",
+  DELETE: "DELETE",
+  ADD_TO_INPROGRESS: "ADD_TO_INPROGRESS",
+  ADD_TO_DONE: "ADD_TO_DONE",
+  GRAB: "GRAB",
+  RESET: "RESET",
+};

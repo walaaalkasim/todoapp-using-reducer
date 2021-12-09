@@ -1,0 +1,19 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+h2 {
+  border: 1px solid;
+  text-align: center;
+  width: 70%;
+  border-radius: 100px 0 100px;
+  background-color: rgba(128, 18, 143, 0.6);
+}
+form {
+  margin-left: 20vw;
+}
+form > button {
+  border-radius: 0 0 100px;
+  background-color: rgba(211, 228, 113, 0.6);
+  width: 20%;
+}
